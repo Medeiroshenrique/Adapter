@@ -1,0 +1,6 @@
+/home/henrique_medeiros/RiderProjects/Adapter/Adapter/Adapter/Adapter/bin/Debug/Adapter.exe
+/home/henrique_medeiros/RiderProjects/Adapter/Adapter/Adapter/Adapter/bin/Debug/Adapter.pdb
+/home/henrique_medeiros/RiderProjects/Adapter/Adapter/Adapter/Adapter/obj/Debug/Adapter.csproj.AssemblyReference.cache
+/home/henrique_medeiros/RiderProjects/Adapter/Adapter/Adapter/Adapter/obj/Debug/Adapter.csproj.CoreCompileInputs.cache
+/home/henrique_medeiros/RiderProjects/Adapter/Adapter/Adapter/Adapter/obj/Debug/Adapter.exe
+/home/henrique_medeiros/RiderProjects/Adapter/Adapter/Adapter/Adapter/obj/Debug/Adapter.pdb
